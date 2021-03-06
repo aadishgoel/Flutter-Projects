@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "256266288545",
+    "firebase_url": "https://circular-hash-162218.firebaseio.com",
+    "project_id": "circular-hash-162218",
+    "storage_bucket": "circular-hash-162218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256266288545:android:57db44db6ac4dd9c",
+        "android_client_info": {
+          "package_name": "com.example.brain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256266288545-7e2cpvb90m3eck7n3qa15aba4c847b5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3pkAmZTFCR2eVLuJZQ6UlOt_KUIFmzDA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
