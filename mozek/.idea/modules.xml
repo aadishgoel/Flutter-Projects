@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/build/image_picker/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/build/image_picker/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/firebase_core/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/build/firebase_core/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/app/generated/source/buildConfig/buildConfig2.iml" filepath="$PROJECT_DIR$/build/app/generated/source/buildConfig/buildConfig2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/firebase_storage/generated/source/buildConfig/buildConfig3.iml" filepath="$PROJECT_DIR$/build/firebase_storage/generated/source/buildConfig/buildConfig3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/src/main/main.iml" filepath="$PROJECT_DIR$/android/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/app/generated/source/r/r.iml" filepath="$PROJECT_DIR$/build/app/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/firebase_core/generated/source/r/r1.iml" filepath="$PROJECT_DIR$/build/firebase_core/generated/source/r/r1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/firebase_storage/generated/source/r/r2.iml" filepath="$PROJECT_DIR$/build/firebase_storage/generated/source/r/r2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/image_picker/generated/source/r/r3.iml" filepath="$PROJECT_DIR$/build/image_picker/generated/source/r/r3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/image_picker/intermediates/manifests/full/release/release.iml" filepath="$PROJECT_DIR$/build/image_picker/intermediates/manifests/full/release/release.iml" />
+    </modules>
+  </component>
+</project>
